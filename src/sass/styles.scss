@@ -1,0 +1,12 @@
+@import 'normalize.scss';
+
+#example {
+    background: red;
+    color: gold;
+    border-radius: 20px;
+    display: flex;
+    
+    .child {
+        background: green;
+    }
+}
